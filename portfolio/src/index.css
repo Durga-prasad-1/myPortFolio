@@ -1,0 +1,18 @@
+.bg-gradient-primary {
+    background: linear-gradient(135deg, #673ab7 0%, #2196f3 100%);
+}
+
+.section-title {
+    border-left: 5px solid #673ab7;
+    padding-left: 15px;
+}
+
+.custom-card {
+    transition: transform 0.3s ease;
+}
+
+.custom-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Add any additional custom styles here */
